@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="addClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addelectricbike.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addpetrolbike.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addRental.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminCatElectric.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminCatPetrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminClientManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminDb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminRental.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="backupLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="customerDb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="customerHourPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="customerPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eBike1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eBike2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eBike3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eBike4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eBike5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="electricbikeCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="logout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Option.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pBike1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pBike10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pBike2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pBike3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pBike4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pBike5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pBike6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pBike7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pBike8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pBike9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="perDayCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="perHourCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="petrolbikeCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pnlCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="pnl_admin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="rulesAndRegulation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Form2.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
